@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Indrojit Mondal
 
-I graduated BSc in Computer Science and Engineering from the University of Barishal. I have passed maximum times with competitive programming and developing some projects on Java. Now, I am looking Software Engineer, Ful-Stack Developer position to apply. I refer to myself as a "passionate programmer" who loves coding, and software engineering. 
+I graduated BSc in Computer Science and Engineering from the University of Barishal. I have passed maximum times with problem solving and developing some projects on Java. Now, I am looking for a job on a position Software Engineer. I refer to myself as a "passionate programmer" who loves coding, and software engineering. 
 
 Skills: C, C++, Java, Android, HTML, CSS, JavaScript, PHP
 
