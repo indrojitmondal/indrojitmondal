@@ -1,4 +1,4 @@
-### Hi 👋, I am Indrojit Mondal
+### Hi 👋
 
 I graduated with a BSc in Computer Science and Engineering from the University of Barishal. I have spent the maximum amount of time problem-solving and developing some projects. Now, I am looking for a position as a software engineer. I refer to myself as a "passionate programmer" who loves coding, and software engineering. 
 
