@@ -2,7 +2,7 @@
 
 I graduated with a BSc in Computer Science and Engineering from the University of Barishal. I have spent the maximum amount of time problem-solving and developing some projects. Now, I am looking for a position as a software engineer. I refer to myself as a "passionate programmer" who loves coding, and software engineering. 
 
-Skills: C, C++, Java, Android, HTML, CSS, JavaScript, PHP
+Skills: C, C++, Java, Android, UI/UX, HTML, CSS, TailwindCSS,daisyUI, JavaScript, PHP
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning MERN Full Stack Web Development and Software Quality Assurance
