@@ -11,18 +11,18 @@
 
 <br />
 <p align="center">
- <a href="https://shahinbhuiyan.web.app/" target="blank">
+ <a href="https://indrojitmondal.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="shahinbhuiyan" />
  </a>
- <a href="https://www.linkedin.com/in/shahinur-alam-bhuiyan/" target="_blank">
+ <a href="https://www.linkedin.com/in/indrojit-mondal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahinur-alam-bhuiyan"/>
  </a>
- <a href="https://medium.com/@shahinur-alam-bhuiyan01" target="blank">
+<!--  <a href="https://medium.com/@shahinur-alam-bhuiyan01" target="blank">
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="shahinur-alam-bhuiyan01" />
  </a>
  <a href="https://www.facebook.com/shahin19sep/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-0866FF?&style=for-the-badge&logo=facebook&logoColor=white" alt="logo"  />
-  </a> 
+  </a>  -->
 </p>
 <br />
 <br />
