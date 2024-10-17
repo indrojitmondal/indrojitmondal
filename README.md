@@ -37,7 +37,7 @@
 
 - My Resume. [Download](https://drive.google.com/file/d/1R98QtDc2Ugrpi1adkBoSc13PGRqNccO1/view)
 
-- Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University - UIU](https://www.uiu.ac.bd/).
+- Studied B.Sc  in Computer Science & Engineering (C.S.E) at [University of Barishal - BU](https://www.bu.ac.bd/).
 
 - Pronouns: He/His
 
