@@ -35,7 +35,7 @@
 
 - 2024 Goals: Angularjs, Threejs, Vue.js
 
-- My Resume. [Download](https://drive.google.com/file/d/1R98QtDc2Ugrpi1adkBoSc13PGRqNccO1/view)
+- My Resume. [Download](https://docs.google.com/document/d/1hqWNarSvcF79h_sEN9XZyhvHr8jmTnX9z1vCtVR523A/edit?tab=t.0)
 
 - Studied B.Sc  in Computer Science & Engineering (C.S.E) at [University of Barishal - BU](https://www.bu.ac.bd/).
 
