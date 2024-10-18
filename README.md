@@ -31,9 +31,8 @@
 
 - Always try to learn modern technology
 
-- I’m currently exploring Machine Learning & Neural Network
+- I’m currently exploring MERN Stack.
 
-- 2024 Goals: Angularjs, Threejs, Vue.js
 
 - My Resume. [Download](https://docs.google.com/document/d/1hqWNarSvcF79h_sEN9XZyhvHr8jmTnX9z1vCtVR523A/edit?tab=t.0)
 
@@ -59,12 +58,8 @@
 
 ![Java](https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Frontend**
 
@@ -73,10 +68,7 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![CHAKRAUI](https://img.shields.io/badge/chakra_ui-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-![Headlessui](https://img.shields.io/badge/headlessui-02CCFE?style=for-the-badge&logo=headlessui&logoColor=white)
-![ShadcnUI](https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
 
 
 
@@ -94,7 +86,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
  **Cloud Servers**
@@ -109,17 +101,14 @@
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![JIRA](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&labelColor=black&logo=intellijidea&logoColor=ffffff)
+
+
 ![pycharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=ffffff)
-![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&labelColor=black&logo=datagrip&logoColor=ffffff)
-![POSTMAN](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![EXPO](https://img.shields.io/badge/expo-000020?style=for-the-badge&labelColor=black&logo=expo&logoColor=ffffff)
+
+
 ![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Multisim](https://img.shields.io/badge/multisim-57B685?style=for-the-badge&logo=multisim&logoColor=white)
+
 
 
 
