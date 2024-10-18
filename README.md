@@ -5,7 +5,7 @@
 
  <br /><br />
 
-<h1 align="center">Hi 👋, I'm Indrojit Mondal <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="50" ></h1>
+<h1 align="center">Hi 👋, I'm Indrojit Mondal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" ></h1>
 
 <p align="center" style="text-align: justify;">Software Engineer , passionate about crafting elegant solutions through clean and efficient code. Dedicated to turning ideas into reality with a blend of technical expertise and a creative touch. Join me on this coding journey! 🚀</p>
 
