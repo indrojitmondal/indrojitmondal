@@ -12,13 +12,13 @@
 <br />
 <p align="center">
  <a href="https://indrojitmondal.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="shahinbhuiyan" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="indrojit" />
  </a>
  <a href="https://www.linkedin.com/in/indrojit-mondal/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahinur-alam-bhuiyan"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="indrojit"/>
  </a>
 <!--  <a href="https://medium.com/@shahinur-alam-bhuiyan01" target="blank">
-  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="shahinur-alam-bhuiyan01" />
+  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="indrojit" />
  </a>
  <a href="https://www.facebook.com/shahin19sep/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-0866FF?&style=for-the-badge&logo=facebook&logoColor=white" alt="logo"  />
@@ -138,14 +138,14 @@
 <br />
 
 <p align="center">
- <img width="500px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahinurAlamBhuiyan?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
+ <img width="500px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/indrojitmondal?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
 </p>
 <p align="center">
-  <a href="https://github.com/ShahinurAlamBhuiyan">
-    <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinurAlamBhuiyan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
+  <a href="https://github.com/indrojitmondal">
+    <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrojitmondal&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
   </a>
-  <a href="https://github.com/ShahinurAlamBhuiyan">
-    <img align="center"  height="190px"src="https://github-readme-streak-stats.herokuapp.com?user=ShahinurAlamBhuiyan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
+  <a href="https://github.com/indrojitmondal">
+    <img align="center"  height="190px"src="https://github-readme-streak-stats.herokuapp.com?user=indrojitmondal&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
   </a>
 </p>
 
@@ -156,11 +156,11 @@
 
 
 <p align="center">
-<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahinurAlamBhuiyan&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
+<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrojitmondal&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
 </p>
 
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahinurAlamBhuiyan&theme=high-contrast" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=indrojitmondal&theme=high-contrast" />
 
 
 
@@ -168,12 +168,9 @@
 
 
 
-[programming]: https://www.programming-hero.com/
-[website]: https://shahinbhuiyan.web.app/
-[linkedin]: https://www.linkedin.com/in/shahinur-alam-bhuiyan/
-[webdevplaylist]: https://shahinbhuiyan.web.app/
-[jsplaylist]: https://shahinbhuiyan.web.app/
-[cssplaylist]: https://shahinbhuiyan.web.app/
-[reactplaylist]: https://shahinbhuiyan.web.app/
-[Facebook]: https://www.facebook.com/shahin19sep/
-[Medium]: https://medium.com/@shahinur-alam-bhuiyan01/
+
+[website]: https://indrojitmondal.netlify.app/
+[linkedin]: https://www.linkedin.com/in/indrojitmondal/
+
+
+
