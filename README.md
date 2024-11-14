@@ -36,7 +36,7 @@
 
 - My Resume. [Download](https://docs.google.com/document/d/1hqWNarSvcF79h_sEN9XZyhvHr8jmTnX9z1vCtVR523A/edit?tab=t.0)
 
-- Studied B.Sc  in Computer Science & Engineering (C.S.E) at [University of Barishal - BU](https://www.bu.ac.bd/).
+- Studied B.Sc  in Computer Science & Engineering (CSE) at [University of Barishal - BU](https://www.bu.ac.bd/).
 
 - Pronouns: He/His
 
