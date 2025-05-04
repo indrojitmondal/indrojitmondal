@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Indrojit Mondal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" ></h1>
 
-<p align="center" style="text-align: justify;">Software Engineer , passionate about crafting elegant solutions through clean and efficient code. Dedicated to turning ideas into reality with a blend of technical expertise and a creative touch. Join me on this coding journey! 🚀</p>
+<p align="center" style="text-align: justify;">Software Developer, passionate about crafting elegant solutions through clean and efficient code. Dedicated to turning ideas into reality with a blend of technical expertise and a creative touch. Join me on this coding journey! 🚀</p>
 
 <br />
 <p align="center">
