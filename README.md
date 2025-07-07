@@ -11,7 +11,7 @@
 
 <br />
 <p align="center">
- <a href="https://indrojitmondal.github.io/Portfolio/" target="blank">
+ <a href="https://indrojit.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="indrojit" />
  </a>
  <a href="https://www.linkedin.com/in/indrojit-mondal/" target="_blank">
